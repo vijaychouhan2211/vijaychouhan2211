@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijay Chouhan
-- 👀 I’m interested in Java Developer
-- 🌱 I’m currently learning Computer Science Engineering From Symbiosis University of Applied
+- 👀 I’m learning Java 
+- 🌱 I’m currently pursuing Engineering in Computer Science and Information Technology From Symbiosis University of Applied Science
 - 😄 Pronouns: He/Him
 
 <!---
